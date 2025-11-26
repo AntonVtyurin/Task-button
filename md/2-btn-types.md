@@ -3,7 +3,7 @@
 ## Описание
 
 Доступны четыре типа кнопок: `primary`, `secondary`, `tertiary`, `borderless`.<br>
-Тип кнопки задается в атрибуте `kind`, например, `kind="primary"`. [Примеры кода кнопок](./1-btn-overview.md/#код-кнопки-типовое-применение-в-react).<br>
+Тип кнопки задается в свойстве `kind`, например, `kind="primary"`. [Примеры кода кнопок](./1-btn-overview.md/#код-кнопки-типовое-применение-в-react).<br>
 
 <details open>
   <summary>Типы кнопок</summary><br>
