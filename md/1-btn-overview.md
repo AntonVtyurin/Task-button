@@ -35,8 +35,8 @@
 </details>
 
 <details>
-  <summary>Кнопки по статусам и типам</summary><br>
-  <a target="_blank" rel="noopener noreferrer" href="../img/1-conf-types-states-btn.png"><img src="../img/1-conf-types-states-btn.png" alt="Кнопки по статусам и типам" style="max-width: 650px;"></a>
+  <summary>Кнопки по состояниям и типам</summary><br>
+  <a target="_blank" rel="noopener noreferrer" href="../img/1-conf-types-states-btn.png"><img src="../img/1-conf-types-states-btn.png" alt="Кнопки по состояниям и типам" style="max-width: 650px;"></a>
 </details>
 
 <details>
